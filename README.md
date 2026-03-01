@@ -1,2 +1,13 @@
-# mathematical-computations-R
-R scripts for computational exploration of mathematical concepts, designed for stepwise execution to visualize intermediate results and plots. (Developed and tested using R-Studio)
+# Computational Mathematics in R
+
+This repository contains R scripts exploring various mathematical concepts 
+through stepwise computation and visualization.
+
+## Features
+- Modular code structure
+- Incremental execution
+- Intermediate plot visualization
+
+## Requirements
+- R
+- Developed and tested in RStudio
